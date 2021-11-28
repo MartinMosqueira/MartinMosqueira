@@ -20,7 +20,6 @@ const martin = {
     tools: [React,Node,Django,Docker],
     architecture: ["design system pattern","microservices"],
     challenge:"Study new Front End technologies"
-
 }
 ```
 
